@@ -79,9 +79,7 @@ The server will start and listen on the configured port (default is `8080`).
 - **Endpoint:** `/receipts/{id}/points`
 - **Method:** `GET`
 - **Description:** Retrieves the calculated points for a specific receipt.
-- **Path Parameter:** id
-
- (string) - The unique identifier of the receipt.
+- **Path Parameter:** id(string) - The unique identifier of the receipt.
 - **Response:**
   - **Success (200):**
 
