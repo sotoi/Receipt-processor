@@ -1,4 +1,4 @@
-# Fetch Receipt Processing Service Take-Home
+# Receipt Processing Service Take-Home
 
 ## Overview
 
